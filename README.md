@@ -13,12 +13,12 @@ it has high precision, convenient operation.
 # Architecture
 To do...
 
-# 系统要求
-该项目支持iOS 6.0及以上
+# Requirements
+This library requires iOS 6.0+ at least.
 
-# 已知问题及待优化问题
+# Known questions
 To do...
 
-# 许可证
-LeafAreaMeter使用 MIT 许可证，详情见 LICENSE 文件。
+# License
+LeafAreaMeter is released under the MIT license. See LICENSE file for details.
 
